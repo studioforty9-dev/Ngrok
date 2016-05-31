@@ -1,0 +1,23 @@
+{
+  "name": "studioforty9/ngrok",
+  "description": "Magento Module for Ngrok. ",
+  "type": "magento-module",
+  "homepage": "https://github.com/studioforty9/ngrok",
+  "license": "BSD-3-Clause",
+  "keywords": ["ngrok", "magento"],
+  "authors": [
+    {
+      "name": "StudioForty9",
+      "homepage": "http://www.studioforty9.com/",
+      "role": "owner"
+    },
+    {
+      "name": "Eoghan O'Brien",
+      "homepage": "http://github.com/eoghanobrien/",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
