@@ -1,6 +1,6 @@
 <?php
 /**
- * Studioforty9_Recaptcha
+ * Studioforty9_Ngrok
  *
  * @category  Studioforty9
  * @package   Studioforty9_Ngrok
