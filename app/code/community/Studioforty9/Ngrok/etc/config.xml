@@ -23,6 +23,7 @@
             <core>
                 <rewrite>
                     <store>Studioforty9_Ngrok_Model_Store</store>
+                    <session>Studioforty9_Ngrok_Model_Session</session>
                 </rewrite>
             </core>
         </models>
